@@ -23,17 +23,17 @@
   <tr>
     <td >
       <a target="blank" href="mailto:gmkrishna11082003@gmail.com" >
-      <img width="72px" align="center" src="https://firebasestorage.googleapis.com/v0/b/github-profile-1183.appspot.com/o/gmail.png?alt=media&token=e3ce94e5-5be5-4aa9-b1fc-759ad8417e51" alt="gokulkrishna-r" />
+      <img width="60px" align="center" src="https://firebasestorage.googleapis.com/v0/b/github-profile-1183.appspot.com/o/gmail.png?alt=media&token=e3ce94e5-5be5-4aa9-b1fc-759ad8417e51" alt="gokulkrishna-r" />
       </a>
     </td>
     <td>
       <a target="blank" href="https://www.linkedin.com/in/gokulkrishna-raju/" >
-      <img width="72px" align="center" src="https://firebasestorage.googleapis.com/v0/b/github-profile-1183.appspot.com/o/linkedin.png?alt=media&token=f7b335be-9d8d-42b1-ac29-c4690fd0fc4f" alt="gokulkrishna-r" />
+      <img width="60px" align="center" src="https://firebasestorage.googleapis.com/v0/b/github-profile-1183.appspot.com/o/linkedin.png?alt=media&token=f7b335be-9d8d-42b1-ac29-c4690fd0fc4f" alt="gokulkrishna-r" />
       </a>
     </td>
     <td>
       <a target="blank" href="https://twitter.com/RGokulKrishna11" >
-      <img width="72px" align="center" src="https://firebasestorage.googleapis.com/v0/b/github-profile-1183.appspot.com/o/twitter.png?alt=media&token=a2dfa9d3-c380-4fe9-95f8-6c5f382ffafd" alt="gokulkrishna-r" />
+      <img width="60px" align="center" src="https://firebasestorage.googleapis.com/v0/b/github-profile-1183.appspot.com/o/twitter.png?alt=media&token=a2dfa9d3-c380-4fe9-95f8-6c5f382ffafd" alt="gokulkrishna-r" />
       </a>
     </td>
   </tr>
@@ -41,17 +41,17 @@
   <tr>
     <td>
       <a target="blank" href="https://www.hackerrank.com/gokulkrishnar_21?hr_r=1" >
-      <img width="72px" align="center" src="https://firebasestorage.googleapis.com/v0/b/github-profile-1183.appspot.com/o/hackerrank.png?alt=media&token=7a612765-771f-4939-8263-1ed9b898e35a" alt="gokulkrishna-r" />
+      <img width="60px" align="center" src="https://firebasestorage.googleapis.com/v0/b/github-profile-1183.appspot.com/o/hackerrank.png?alt=media&token=7a612765-771f-4939-8263-1ed9b898e35a" alt="gokulkrishna-r" />
       </a>
     </td>
     <td>
       <a target="blank" href="https://www.instagram.com/_j_e_y_a_n_t_h_143_/" >
-      <img width="72px" align="center" src="https://firebasestorage.googleapis.com/v0/b/github-profile-1183.appspot.com/o/instagram.png?alt=media&token=e18d7a9d-0f9a-4459-a25d-671f3ba5eb49" alt="gokulkrishna-r" />
+      <img width="60px" align="center" src="https://firebasestorage.googleapis.com/v0/b/github-profile-1183.appspot.com/o/instagram.png?alt=media&token=e18d7a9d-0f9a-4459-a25d-671f3ba5eb49" alt="gokulkrishna-r" />
       </a>
     </td>
     <td>
       <a target="blank" href="https://leetcode.com/GOKULKRISHNA_R/" >
-      <img width="72px" align="center" src="https://firebasestorage.googleapis.com/v0/b/github-profile-1183.appspot.com/o/leet.png?alt=media&token=a3e67a53-c394-4e40-9ace-8388de466535" alt="gokulkrishna-r" />
+      <img width="60px" align="center" src="https://firebasestorage.googleapis.com/v0/b/github-profile-1183.appspot.com/o/leet.png?alt=media&token=a3e67a53-c394-4e40-9ace-8388de466535" alt="gokulkrishna-r" />
       </a>
     </td>
   </tr>
