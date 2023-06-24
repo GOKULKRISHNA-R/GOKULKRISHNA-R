@@ -28,7 +28,7 @@
     </td>
     <td>
       <a target="blank" href="https://www.linkedin.com/in/gokulkrishna-raju/" >
-      <img width="40px" align="center" src="./connect_with_me/linkedin.png" alt="gokulkrishna-r" />
+      <img width="40px" align="center" src="https://firebasestorage.googleapis.com/v0/b/github-profile-1183.appspot.com/o/linkedin.png?alt=media&token=f7b335be-9d8d-42b1-ac29-c4690fd0fc4f" alt="gokulkrishna-r" />
       </a>
     </td>
     <td>
