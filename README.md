@@ -1,4 +1,4 @@
-<img src="./gk.jpg" align="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/github-profile-1183.appspot.com/o/gk.jpg?alt=media&token=2bc3c903-1d32-4816-b409-2d74e14a1378" align="center">
 
 <h1 align="center">Hi 😇, I'm GokulKrishna Raju</h1>
 <h3 align="center">A Full stack Mobile App and Web developer from Tamil Nadu, India</h3>
@@ -97,7 +97,7 @@
   </tr>
   <tr>
     <td align="center"><img src="./skills/arduino.png" alt="arduino"  height="60"/><br/>Arduino</td>
-    <td align="center"><img src="./skills/tailwind.png" alt="bootstrap"  height="60"/><br/>Tailwind CSS</td>
+    <td align="center"><img src="https://firebasestorage.googleapis.com/v0/b/github-profile-1183.appspot.com/o/tailwind.png?alt=media&token=1a84bfcc-1a35-4b50-ae62-469c536975bb" alt="bootstrap"  height="60"/><br/>Tailwind CSS</td>
     <td align="center"><img src="./skills/figma.png" alt="figma"  height="60"/><br/>Figma</td>
     <td align="center"><img src="./skills/canva.jpg" alt="bootstrap"  height="60"/><br/>Canva</td>
   </tr>
