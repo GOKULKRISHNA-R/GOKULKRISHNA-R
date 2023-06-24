@@ -6,16 +6,15 @@
 - 📫 How to reach me **gmkrishna11082003@gmail.com**
 
 ## Connect with me:
-<table>
+<table border="0">
   <tr>
-    <td align="center"><a href="https://twitter.com/rgokulkrishna11" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"></a></td>
-    <td align="center"><a href="https://linkedin.com/in/gokulkrishna-raju" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a></td>
-    <td align="center"><a href="https://instagram.com/_j_e_y_a_n_t_h_143_" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a></td>
+    <td align="center"><a href="https://linkedin.com/in/gokulkrishna-raju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokulkrishna-raju" height="30" width="40" /></a></td>
+    <td align="center"><a href="https://www.leetcode.com/gokulkrishna_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gokulkrishna_r" height="30" width="40" /></a></td>
+    <td align="center"><a href="https://twitter.com/rgokulkrishna11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rgokulkrishna11" height="30" width="40" /></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.hackerrank.com/gokulkrishnar_21" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"></a></td>
-    <td align="center"><a href="https://www.leetcode.com/gokulkrishna_r" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"></a></td>
-    <td align="center"><a href="https://github.com/GOKULKRISHNA-R" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"></a></td>
+    <td align="center"><a href="https://www.hackerrank.com/gokulkrishnar_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gokulkrishnar_21" height="30" width="40" /></a></td>
+    <td align="center"><a href="https://instagram.com/_j_e_y_a_n_t_h_143_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_j_e_y_a_n_t_h_143_" height="30" width="40" /></a></td>
   </tr>
 </table>
 
