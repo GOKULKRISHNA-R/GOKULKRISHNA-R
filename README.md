@@ -1,63 +1,139 @@
-<h1 align="center">Hi 👻, I'm GokulKrishna Raju</h1>
-<h3 align="center">A Full stack Mobile App and Web developer from India</h3>
+<img src="./gk.jpg" align="center">
 
-- 🔭 I’m currently working on **Flutter**
+<h1 align="center">Hi 😇, I'm GokulKrishna Raju</h1>
+<h3 align="center">A Full stack Mobile App and Web developer from Tamil Nadu, India</h3>
 
-- 📫 How to reach me **gmkrishna11082003@gmail.com**
 
-## Connect with me:
-<table border="0">
-  <tr>
-    <td align="center"><a href="https://linkedin.com/in/gokulkrishna-raju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokulkrishna-raju" height="30" width="40" /></a></td>
-    <td align="center"><a href="https://www.leetcode.com/gokulkrishna_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gokulkrishna_r" height="30" width="40" /></a></td>
-    <td align="center"><a href="https://twitter.com/rgokulkrishna11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rgokulkrishna11" height="30" width="40" /></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.hackerrank.com/gokulkrishnar_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gokulkrishnar_21" height="30" width="40" /></a></td>
-    <td align="center"><a href="https://instagram.com/_j_e_y_a_n_t_h_143_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_j_e_y_a_n_t_h_143_" height="30" width="40" /></a></td>
-  </tr>
-</table>
-
-## Languages and Tools:
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/><br/>Android</td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/><br/>Arduino</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/><br/>Bootstrap</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><br/>C</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><br/>CSS3</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><br/>Figma</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/><br/>Firebase</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/><br/>Flutter</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><br/>Git</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><br/>HTML5</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/><br/>Java</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><br/>JavaScript</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><br/>Linux</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><br/>MySQL</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><br/>Node.js</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/><br/>PHP</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><br/>React</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/><br/>Redis</td>
-    <td></td>
-    <td></td>
+    <td>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokulkrishna-r&show_icons=true&locale=en&layout=compact" alt="gokulkrishna-r" /></p>
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gokulkrishna-r&show_icons=true&locale=en" alt="gokulkrishna-r" />
+    </td>
   </tr>
 </table>
 
+<img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulkrishna-r&" alt="gokulkrishna-r" />
 
-## GitHub Stats:
-![GokulKrishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GOKULKRISHNA-R&show_icons=true&count_private=true)
+## Connect with me :
 
-<img style="background: rgba(0, 0, 0, 0);" src="https://leetcode-badge-showcase.vercel.app/api?username=gokulkrishna_r&theme=sky" alt="LeetCode Badges"/>
+<table align="center" width="50%">
+  <tr>
+    <td>
+      <a target="blank" href="mailto:gmkrishna11082003@gmail.com" >
+      <img width="40px" align="center" src="./connect_with_me/gmail.png" alt="gokulkrishna-r" />
+      </a>
+    </td>
+    <td>
+      <a target="blank" href="https://www.linkedin.com/in/gokulkrishna-raju/" >
+      <img width="40px" align="center" src="./connect_with_me/linkedin.png" alt="gokulkrishna-r" />
+      </a>
+    </td>
+    <td>
+      <a target="blank" href="https://twitter.com/RGokulKrishna11" >
+      <img width="40px" align="center" src="./connect_with_me/twitter.png" alt="gokulkrishna-r" />
+      </a>
+    </td>
+  </tr>
 
-<img src="https://leetcode.card.workers.dev/GOKULKRISHNA_R?theme=unicorn&font=source_code_pro&extension=null">
+  <tr>
+    <td>
+      <a target="blank" href="https://www.hackerrank.com/gokulkrishnar_21?hr_r=1" >
+      <img width="40px" align="center" src="./connect_with_me/hackerrank.png" alt="gokulkrishna-r" />
+      </a>
+    </td>
+    <td>
+      <a target="blank" href="https://www.instagram.com/_j_e_y_a_n_t_h_143_/" >
+      <img width="40px" align="center" src="./connect_with_me/instagram.png" alt="gokulkrishna-r" />
+      </a>
+    </td>
+    <td>
+      <a target="blank" href="https://leetcode.com/GOKULKRISHNA_R/" >
+      <img width="40px" align="center" src="./connect_with_me/leet.png" alt="gokulkrishna-r" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Leetcode
+
+<table>
+  <tr>
+    <td><img src="https://leetcode-badge-showcase.vercel.app/api?username=gokulkrishna_r&theme=sky" alt="LeetCode Badges"/></td>
+    <td><img height="100%" src="https://leetcode.card.workers.dev/GOKULKRISHNA_R?theme=unicorn&font=source_code_pro&extension=null"></td>
+  </tr>
+</table>
+
+## Skills
 
 
+<table width="100%" height="800px">
+  <tr>
+    <td align="center"><img src="./skills/c.png" alt="c"  height="60"/><br/>C</td>
+    <td align="center"><img src="./skills/java.png" alt="java"  height="60"/><br/>Java</td>
+    <td align="center"><img src="./skills/py.png" alt="Python"  height="60"/><br/>Python</td>
+    <td align="center"><img src="./skills/dart.png" alt="Dart"  height="60"/><br/>Dart</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./skills/html.png" alt="html5"  height="60"/><br/>HTML5</td>
+    <td align="center"><img src="./skills/css.png" alt="css3"  height="60"/><br/>CSS3</td>
+    <td align="center"><img src="./skills/js.png" alt="javascript"  height="60"/><br/>JavaScript</td>
+    <td align="center"><img src="./skills/php.png" alt="php"  height="60"/><br/>PHP</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./skills/mysql.jpg" alt="mysql"  height="60"/><br/>MySQL</td>
+    <td align="center"><img src="./skills/node.png" alt="nodejs"  height="60"/><br/>Node.js</td>
+    <td align="center"><img src="./skills/react.png" alt="react"  height="60"/><br/>React</td>
+    <td align="center"><img src="./skills/redis.png" alt="redis"  height="60"/><br/>Redis</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./skills/flutter.png" alt="flutter"  height="60"/><br/>Flutter</td>
+    <td align="center"><img src="./skills/fb.jpg" alt="firebase"  height="60"/><br/>Firebase</td>
+  <td align="center"><img src="./skills/android.jpg" alt="android"  height="60"/><br/>Android</td>
+  <td align="center"><img src="./skills/as.png" alt="androidstudio"  height="60"/><br/>Android Studio</td>
+    
+  </tr>
+  <tr>
+    <td align="center"><img src="./skills/arduino.png" alt="arduino"  height="60"/><br/>Arduino</td>
+    <td align="center"><img src="./skills/tailwind.png" alt="bootstrap"  height="60"/><br/>Tailwind CSS</td>
+    <td align="center"><img src="./skills/figma.png" alt="figma"  height="60"/><br/>Figma</td>
+    <td align="center"><img src="./skills/canva.jpg" alt="bootstrap"  height="60"/><br/>Canva</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./skills/git.png" alt="git"  height="60"/><br/>Git</td>
+    <td align="center"><img src="./skills/linux.jpg" alt="linux"  height="60"/><br/>Linux</td>
+  </tr>
+</table>
+
+## Live Demo
+
+<table width = "100%">
+  <tr>
+    <td>
+    <a href="https://play.google.com/store/apps/details?id=com.kec.cseautomation.kecconnect&pli=1" target="blank"> <img height="270px" src="./live_demo/KEC_Connect.png" /> </a>
+    </td>
+    <td colspan="2">
+      <p>MOBILE APP <br/><br/> The saying "The most important things in life are the connections you make with others" is so true. Great connections are invaluable, but being a great connection is equally, if not, is most important. Try KEC Connect to easily get the contacts of KEC faculties and Academic Details.
+
+  With KEC Connect you can find faculty details, contacts, Academic schedule and time table on your finger tip.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <p> WEBSITE <br/><br/> This is the appication for the event Expelliarmus 2K23 conducted by Robotics club of Kongu Engineering College </p>
+    </td>
+    <td colspan="2" >
+    <a href="https://rbckec.kongu.edu/" target="blank"> <img height="270px" src="./live_demo/rbc.png" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <p> WEBSITE <br/><br/> This is the appication for the event Math Fiesta conducted by  Srinivasa Ramanujan Mathematics Club of Kongu Engineering College </p>
+    </td>
+    <td colspan="2" >
+    <a href="https://mathsclub.kongu.edu/" target="blank"> <img height="270px" width="auto" src="./live_demo/maths.png" /> </a>
+    </td>
+  </tr>
+</table>
