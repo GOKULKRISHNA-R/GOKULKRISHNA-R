@@ -19,9 +19,9 @@
 
 ## Connect with me :
 
-<table align="center" width="100%">
+<table align="center" width="100%" cellpadding="10">
   <tr>
-    <td>
+    <td >
       <a target="blank" href="mailto:gmkrishna11082003@gmail.com" >
       <img width="72px" align="center" src="https://firebasestorage.googleapis.com/v0/b/github-profile-1183.appspot.com/o/gmail.png?alt=media&token=e3ce94e5-5be5-4aa9-b1fc-759ad8417e51" alt="gokulkrishna-r" />
       </a>
