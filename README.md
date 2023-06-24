@@ -19,7 +19,7 @@
 
 ## Connect with me :
 
-<table align="center" width="100%" cellpadding="10">
+<table align="center" width="100%" cellpadding="30">
   <tr>
     <td >
       <a target="blank" href="mailto:gmkrishna11082003@gmail.com" >
